@@ -1,0 +1,21 @@
+{
+  "short_name": "Vee Collection",
+  "name": "Vee Collection | Your Style, Your Confidence",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&q=80&w=192",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&q=80&w=512",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "display": "standalone",
+  "orientation": "portrait"
+}
